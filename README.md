@@ -1,1 +1,1 @@
-# Projeto intermedio (e futuramente final:) da UC Programação
+# Projeto da UC Programação que consiste num jogo de "Batalha Naval"
