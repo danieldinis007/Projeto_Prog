@@ -1,1 +1,1 @@
-# Projeto da UC Programação que consiste num jogo de "Batalha Naval"
+# Projeto da UC Programação que consiste num jogo de "Batalha Naval" em C
